@@ -21,3 +21,11 @@ javascript:(function(){var yesterday=new Date();yesterday.setDate(yesterday.getD
 ~~~~
 
 + **Rename** the newly-created bookmarklet to something meaningful like '**Attendance**' by choosing **Edit...**
+
+##HOW TO USE
+
++ Navigate to Schoology **course** 
+
++ Go to **User Analytics**
+
++ Click **bookmarklet**
