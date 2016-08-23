@@ -1,6 +1,6 @@
 Schoology Attendance Bookmarklet
 ===
 
-#SUMMARY
+##SUMMARY
 
-The Schoology Attendance Bookmarklet is a simple piece of JavaScript designed to make taking attendance using Schoology's User Analytics information easier.  Students who are to be marked absent are highlighted in bright red.
+The Schoology Attendance Bookmarklet is a simple piece of JavaScript designed to make taking attendance using Schoology's User Analytics page easier.  Students who are to be marked absent are highlighted in bright red.
